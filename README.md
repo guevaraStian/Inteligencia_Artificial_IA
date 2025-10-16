@@ -12,11 +12,20 @@ Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la
 
 ```Pagina web
 https://www.python.org/downloads/
+https://git-scm.com/downloads
+```
+
+Despues de haber instalado python, descargamos git y descargamos el proyecto.
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/Inteligencia_Artificial.git
+Cd Inteligencia_Artificial
+git push origin master
 ```
 Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
 
 ```Terminal de comandos
-cd    
 python --version
 pip --versión
 pip install --upgrade pip
