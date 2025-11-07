@@ -22,7 +22,10 @@ git push origin master
 ---------
 
 -----------------
-PYTHON 
+
+
+<h1 style="font-size: 3em; color: #FF0000;">•  PYTHON  </h1> 
+
 
 Los pasos para poner en ejecución son los siguientes
 Ir a la pagina web de Python y Git, luego descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
@@ -52,7 +55,9 @@ Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en c
 
 ------------------------------
 -----------------------------------
-RUBY
+
+<h1 style="font-size: 3em; color: #FF0000;">• RUBY </h1> 
+
 
 Los pasos para poner en ejecución son los siguientes
 Ir a la pagina web de RUBY y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Ruby en la terminal de comandos
@@ -88,7 +93,8 @@ Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en c
 --------------------------
 ------------------------
 
-GO
+
+<h1 style="font-size: 3em; color: #FF0000;">• GO </h1> 
 
 
 Los pasos para poner en ejecución son los siguientes
@@ -115,7 +121,8 @@ Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en c
 ---------------------
 -------------------
 
-R
+
+<h1 style="font-size: 3em; color: #FF0000;">• R </h1>
 
 
 Los pasos para poner en ejecución son los siguientes
