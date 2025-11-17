@@ -51,10 +51,10 @@ def save_split(split_name, filename):
     print(f"{filename} guardado ({len(texts)} líneas).")
 
 # -----------------------------------------
-# 5) Guardar train / valid / test
+# 5) Guardar Entrenamiento / valid / test
 # -----------------------------------------
-if "train" in dataset:
-    save_split("train", "train.txt")
+if "Entrenamiento" in dataset:
+    save_split("Entrenamiento", "Entrenamiento.txt")
 if "validation" in dataset:
     save_split("validation", "valid.txt")
 if "test" in dataset:
