@@ -1,36 +1,143 @@
-INTELIGENCIA ARTIFICIAL PYTHON
+
+<h1 style="font-size: 3em; color: #FF0000;">•  INTELIGENCIA ARTIFICIAL </h1> 
+
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![Ruby](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=ruby-on-rails&logoColor=white)
+
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)
+
+----------------
+
+Luego de descargar git, Los comandos para acceder al repositorio son los siguientes.
+
+```Terminal de comandos
+git --version
+git init
+git clone https://github.com/guevaraStian/Inteligencia_Artificial.git
+cd Inteligencia_Artificial
+git push origin master
+```
+---------
+
+-----------------
 
 
-PYTHON 
+<h1 style="font-size: 3em; color: #FF0000;">•  PYTHON  </h1> 
 
 
 Los pasos para poner en ejecución son los siguientes
-Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
+Ir a la pagina web de Python y Git, luego descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Python en la terminal de comandos
 
 ```Pagina web
 https://www.python.org/downloads/
 https://git-scm.com/downloads
 ```
-
-Despues de haber instalado python, descargamos git y descargamos el proyecto.
-```Terminal de comandos
-git --version
-git init
-git clone https://github.com/guevaraStian/Inteligencia_Artificial.git
-Cd Inteligencia_Artificial
-git push origin master
-```
 Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
 
 ```Terminal de comandos
+cd
 python --version
-pip --versión
+pip --version
+```
+
+Posteriormente ingresamos a la carpeta creada e instalamos las librerias y ejecutamos el proyecto.
+```Terminal de comandos
+cd 
 pip install --upgrade pip
-pip install pipwin speechrecognition pyttsx3 google-genes Pillow bytesio matplotlib opencv-python cmake dlib pandas sklearn openai
+pip install scikit-learn sklearn matplotlib numpy pandas seaborn itertools ucimlrepo pipwin speechrecognition pyttsx3 google-genes Pillow bytesio matplotlib opencv-python cmake dlib pandas sklearn openai
 python <Nombre_Proyecto.py>
 
 ```
 Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
+
+
+------------------------------
+-----------------------------------
+
+<h1 style="font-size: 3em; color: #FF0000;">• RUBY </h1> 
+
+
+Los pasos para poner en ejecución son los siguientes
+Ir a la pagina web de RUBY y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de Ruby en la terminal de comandos
+
+Windows
+```Pagina web
+https://rubyinstaller.org/
+https://git-scm.com/
+```
+
+LINUX
+```Terminal de comandos
+sudo apt install ruby-full
+```
+
+MAC
+```Terminal de comandos
+brew install rbenv ruby-build 
+sudo apt install rbenv
+```
+
+Luego de tener instalado Python podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
+
+```Terminal de comandos
+cd 
+ruby -v
+ruby <Nombre_Proyecto.rb>
+
+```
+Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
+
+
+--------------------------
+------------------------
+
+
+<h1 style="font-size: 3em; color: #FF0000;">• GO </h1> 
+
+
+Los pasos para poner en ejecución son los siguientes
+Ir a la pagina web de Python y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de GO en la terminal de comandos
+
+Windows
+```Pagina web
+https://go.dev/doc/install
+https://git-scm.com/
+```
+
+Luego de tener instalado GO podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí ejecutamos los siguientes codigos
+
+```Terminal de comandos
+cd 
+go version 
+go run <Nombre_Proyecto.go>
+go build
+
+```
+Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
+
+
+---------------------
+-------------------
+
+
+<h1 style="font-size: 3em; color: #FF0000;">• R </h1>
+
+
+Los pasos para poner en ejecución son los siguientes
+Ir a la pagina web de R y descargarlo para tu sistema operativo, escoger la opción "add path" con el fin de poder ejecutar comandos de GO en la terminal de comandos
+
+Windows
+```Pagina web
+https://posit.co/download/rstudio-desktop/
+https://cran.r-project.org/
+https://git-scm.com/
+```
+
+Luego de tener instalado R podemos ejecutar los siguientes comandos hasta llegar a la carpeta del proyecto y estando ahí abrimos en RStudio y luego abrimos la carpeta del proyecto.
+
+
+Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en consola o pestañas emergentes
+
+
