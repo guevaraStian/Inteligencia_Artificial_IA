@@ -21,7 +21,6 @@ git push origin master
 ```
 ---------
 
------------------
 
 
 <h1 style="font-size: 3em; color: #FF0000;">•  PYTHON  </h1> 
@@ -54,7 +53,6 @@ Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en c
 
 
 ------------------------------
------------------------------------
 
 <h1 style="font-size: 3em; color: #FF0000;">• RUBY </h1> 
 
@@ -91,8 +89,6 @@ Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en c
 
 
 --------------------------
-------------------------
-
 
 <h1 style="font-size: 3em; color: #FF0000;">• GO </h1> 
 
@@ -119,9 +115,6 @@ Luego que el proyecto ya se este ejecutando se darán diferentes respuestas en c
 
 
 ---------------------
--------------------
-
-
 <h1 style="font-size: 3em; color: #FF0000;">• R </h1>
 
 
