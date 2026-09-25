@@ -67,7 +67,7 @@ python --version
 pip --version
 ```
 
-Posteriormente ingresamos a la carpeta creada e instalamos las librerias y ejecutamos el proyecto.
+Posteriormente ingresamos a la carpeta creada e instalamos las librerias y ejecutamos el proyecto que se puede realizar en cualquier sistema operativo.
 ```Terminal de comandos
 cd 
 pip install --upgrade pip
