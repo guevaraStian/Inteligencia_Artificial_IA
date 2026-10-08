@@ -33,7 +33,7 @@ brew install git
 
 
 
-Luego de descargar git, se procede a descargar los programas dando click en el boton verde o con los comandos para acceder al repositorio son los siguientes.
+Luego de descargar git, se procede a descargar los programas dando click en el boton verde o con los comandos para acceder al repositorio son los siguientes luego de haber instalado git en el sistema operativo.
 
 ```Terminal de comandos
 git --version
