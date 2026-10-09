@@ -10,7 +10,7 @@
 
 ----------------
 En este repositorio hay varios programas relacionados a la inteligencia artificial y sus diferentes areas de trabajo, desde sus diferentes areas de estudio.
-
+Ejemplos de códigos con inteligencias artíficiales en diferentes lenguajes de programacion. Inteligencia artificial , Artificial intelligence , Intelligence artificielle , 人工智慧 , لذكاء الاصطناعي , Искусственный интеллект , कृत्रिम होशियारी
 
 
 El comando de consola para intalar GIT en cada sistema operativo es el siguiente.
